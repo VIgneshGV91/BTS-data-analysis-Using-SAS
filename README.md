@@ -1,5 +1,6 @@
-# BTS-data-analysis-Using-SAS
-Analysis of BUREAU OF TRANSPORTATION STATISTICS Data using SAS
+# PoS_Transaction-and-OLS-Regression-of-BTS-data-Using-SAS
+
+Analysis of Point of Sale Transaction and BUREAU OF TRANSPORTATION STATISTICS Data using SAS
 
 This exercise has 2 problems. The first problem relates to the point of sale transation dataset. The 2nd problem relates to the BTS dataset.
 
